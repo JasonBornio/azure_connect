@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azure_connect", "azure_connect.csproj", "{23B3E2D1-4E40-451B-BA57-B7F36C9D9343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B3E2D1-4E40-451B-BA57-B7F36C9D9343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B3E2D1-4E40-451B-BA57-B7F36C9D9343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B3E2D1-4E40-451B-BA57-B7F36C9D9343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B3E2D1-4E40-451B-BA57-B7F36C9D9343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7FA53CF-6923-400C-A669-7EEAFEC51116}
+	EndGlobalSection
+EndGlobal

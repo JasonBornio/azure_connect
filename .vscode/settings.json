@@ -1,0 +1,10 @@
+{
+  "azureFunctions.deploySubpath": "bin/Release/net8.0/publish",
+  "azureFunctions.projectLanguage": "C#",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "publish (functions)",
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin/Release/net8.0/publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/6e951c2d-22a5-47a5-86d0-6e71fdce58ed/resourceGroups/ios-swift-web-app-1_group/providers/Microsoft.Web/sites/ios-swift-web-app-1"
+}
